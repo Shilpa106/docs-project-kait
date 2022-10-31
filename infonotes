@@ -1,0 +1,2031 @@
+Questions.
+
+Diff between List vs Tuple.
+Can you convert List to Dict object. (Scenario)
+Diff between extend & append in list.
+Define a class.
+SDLC models
+Your previous projects.
+
+ basics of python such as list vs tuple, list append vs extend with examples.
+What is difference between List and tuple?
+What are the advantages of Nginx ?
+
+
+self-introduction
+What’s your favorite programming language?
+recursion
+anonymous function
+pass in python
+write code to scope resolution in python
+explain project
+I explained my ‘ Library System ‘ project in detail like what is the purpose of using its advantages, disadvantages, real-time use, etc and he liked my explanation
+
+
+ OK, So Ashrith you are from Hyderabad?
+
+Ok so let’s get started with the questions. You have to be hurry in answering. So are you ready?
+What is String Immutability?
+
+ What is pickling and unpickling??
+Write a code to demonstrate dynamic method dispatch.
+
+What is an abstract class and how do you declare abstract method in Python?
+Can static, private, final methods be overridden?
+No sir. However overriding static methods won’t give any compile time error but the other 2 will.
+
+How are arguments passed by value or by reference?
+
+What is PYTHONPATH?
+ It is an environment variable which is used when a module is imported.
+
+What is static class?
+In a List and in a Dictionary, What Are the Typical Characteristics of Elements?
+
+What do you mean by transparent DBMS?
+What is static field. Give me its application
+What is 1 NF (Normal Form)?
+
+When can you override clone method of Object class.
+only when that class implements Cloneable which is a tagging interface. And we should do that only when there will arise a problem of shallow copy.
+
+What is an extensible framework?
+
+so tell me why Python is platform independent?
+
+What if we have constructors in both Parent and Child Class?
+Use super() to execute parent class’ constructor and normally for child’s.
+
+Do you know super and self?
+Interviewer : What is meant by query optimization?
+
+What is meant by <> ?
+ explain to me the internal working of Hash-map in python.
+
+Me : Explained him thoroughly using separate chaining method and using a bucket array. A lot of questions were asked from it as well.
+
+Interviewer : Ok Ashrith now let me now test on your problem solving skills?
+
+Interviewer : Explain me using generator to print the even numbers between 0 and n in comma separated form while n is input by console. Do it for me in the most efficient way. Just tell me the approach.
+
+Me : Use yield to produce the next value in generator. In case of input data being supplied to the question, it should be assumed to be a console input.
+
+Interviewer : Good that will work. Over to the next question.
+
+Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both included) and the values are square of keys. The function should just print the values only.
+
+Me: Sir, Use dict[key]=value pattern to put entry into a dictionary.
+Use ** operator to get power of a number.
+Use range() for loops.
+Use keys() to iterate keys in the dictionary. Also we can use item() to get key/value pairs.
+
+Interviewer : How will u detect loop in a linked list?
+Me : Will keep a boolean array and if i visit one loop will mark it as visited….
+
+Interviewer : (Interrupting me.) I don’t want to waste extra space.
+
+Interviewer : How about applying two pointers here?
+
+Me : Okay Sir I got it. (Explained him my approach with two pointers).
+Interviewer : Write an SQL query to Select all names that start with a given letter
+
+Interviewer : Okay so lets move on to puzzles. Do you like solving them?
+
+Interviewer : What is the maximum number of runs that a batsman can score in an ideal case ?
+
+on campus
+SQL from the topics – Joins, Cursors, Procedures, Triggers, DML, DDL. They also ask the basic OOPS concepts and questions.
+
+sql query i.e to select top 3 rows from a student table arranged in descending order. he asked normalization question also. a table was given and I have to tell the table is in which nf. then the difference between 2nf and 3nf. then he asked me software development life cycle.
+
+Then he asked me a puzzle which was to find the next number in this series: 80 10 70 15 60. He gave me 2 minutes for it.
+
+Interviewer: Suppose you have to create an E-Commerce website, what all authorization techniques and validation methods will you use for the Login System? How will you design it? I was given 3-4 minutes for it.
+
+Interviewer: Tell me your favourite subjects from 1st Semester till now which you have studied.
+
+Me: DSA, DBMS, OS.
+
+Interviewer: Where do you see yourself in 5 years?
+
+Interviewer: What all sorting techniques do you know? Write the code for your favourite sorting technique. ( I had to open the IDE on my laptop for it).
+
+Bubble sort, Selection Sort, Insertion Sort, Heap Sort, Quick Sort, Merge Sort, Radix Sort, Bucket Sort. 
+
+Interviewer: Write down the Fibonacci Series. 
+
+Me: Answered.
+
+Interviewer: If you have to choose between doing a job at Infosys or going for Higher Studies, what will you choose?
+
+Me: Job at Infosys.
+
+Interviewer: She asked me about Django since I said that in my introduction.
+
+Me: Answered. (Note: Always tell which architecture it is using, in my case, it is MVT).
+
+Interviewer: Told me to share my screen and then quickly gave the first problem: I had to print the average of N numbers.
+
+Interviewer: She then asked the memory space my code was consuming.
+
+Me: Answered.
+
+She was satisfied with my solution and then gave me another problem.
+
+Interviewer: Given two strings, eliminate all the occurrence of the second string in the first string and print the updated first string.
+
+Me: I took 10 minutes to code and then 5 minutes to explain the code to her. (Note: always keep talking to the Interviewer, what I do is, I first explain here what I am trying to do in the current line and write that line of code, don’t make Interviewer sit idle, they will get bored and remember, always treat an interview as a discussion)
+
+She was again satisfied by my code.
+Interviewer: Asked me about my projects which were written in the resume.
+
+Me: Answered(Note: always explain in detail that what have you done in implementing the feature which you are currently showing, in my case, my project was already hosted online, so I just opened my project and showed every feature that I implemented)
+
+Interviewer: Tell me about the features of Object-Oriented Programming and a real-world example of each feature.
+
+Me: Answered.
+
+Interviewer: Difference between NULL and void.
+
+Me: Answered.
+
+Interviewer: Can you show me the structure of a graph?
+
+Me: Answered.
+
+Interviewer: Do you know agile and waterfall models in software engineering? If yes, tell me the difference between both.
+
+Me: Answered.
+
+Interviewer: What are ACID properties in Database Management systems?
+
+the first question was based on arrays, the second one was based on searching and sorting, and the third one seemed to be based on DP. I was able to solve the first one fully, and some part of the second one also.
+
+ He gave me some numbers and I had to tell if those are prime or not. And he also asked for the square of 19 without calculating it.
+ The second question was to write the code for “Length of longest common subsequence”, he asked me to write the code on paper and send a photo of it on WhatsApp. https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+ He asked me some technical questions also, like what is difference between authentication and authorization is. https://www.geeksforgeeks.org/difference-between-authentication-and-authorization/
+
+For preparation, I solved many problems on Geeks for Geeks(140+ problems), HackerRank, and Leetcode(90+), and also used to give CP contests on CodeChef. For the DSA I referred to the GFG articles and some YouTube resources along with the book “Data Structures and Algorithms made easy” by Narasimha Karumanchi. 
+
+1. What is oops?  
+
+I had explained about oops and why we use oops.
+2. What are the four main principles of OOPS?
+
+I told the names of all four principles.
+3. What is polymorphism?    
+
+I had explained polymorphism and its two types.
+4. What is inheritance?    
+
+I had explained about inheritance.
+5. What are the different types of inheritance?
+
+I had explained about 5 types like Single, Multiple, Multilevel, Hierarchical, Hybrid.
+6. What is abstraction?
+
+I had explained abstraction and how it is useful.
+7. What is encapsulation and how will you do it?  
+
+I had explained encapsulation and how it can be implemented.
+8. What is overloading and how it works?  
+
+I had explained about method overloading and how it works.
+9. What is method overriding?  
+
+I had explained about method overriding.
+10. What are the different types of access modifiers and explain each of them.
+
+I had explained about private, public, and protected.
+11. Will all properties of a parent can acquire by child class in inheritance?  
+
+I have not answered this correctly.
+Until I answered the wrong answer interview continued asking questions on the same concept.
+
+DBMS Questions: The interviewer asked me that do I know DBMS?
+
+I told yes and the interviewer started asking questions related to DBMS
+
+1. What is DBMS?
+
+I had explained about DBMS and the softwares that are used.
+2. How data is stored?
+
+I had explained that data is stored in the form of tables containing rows and columns.
+3. What is normalization?
+
+I had explained that it is done to remove anomalies of update, delete, and insertion.
+4. Explain various normal forms in normalization?
+
+I had explained about 1NF, 2NF, 3NF.
+5. Explain 2NF with an example.
+
+I had not answered it.
+6. What is a primary key?
+
+I had explained about it and its use.
+7. What is a foreign key?
+
+I had explained about it and its use.
+
+1. What is an algorithm?
+
+I had explained it is a sequence of statements that are used to solve a problem.
+2. Explain any sorting algorithm orally without code?
+
+I had explained about bubble sort and how it works.
+3. What is a linked list?
+
+I had explained that it is a linear data structure.
+4. Explain the structure of the linked list.
+
+I had explained that it contains nodes and the structure of each node.
+5. What is linear data structure?
+
+I had explained that data is stored in a linear fashion.
+6. What is a non-linear data structure and examples?
+
+I had explained that data is stored in a non-linear form. Examples are Tress, Graphs.
+
+1. How does it work?
+
+I explained how the application works.
+2. What is the protocol you used to send messages?
+
+I had explained that I used HTTP protocol.
+3. What is a client and a server?
+
+I had explained that the client can be a user who interacts with the application. When a client makes a request it is processed by the server and the server sends a response to the client.
+4. How do you validate the details that the user entered are in the correct format or not and also where do you validate them i.e Client-side or server-side.  
+
+I had explained that I validate user details in both frontend and backend.
+On the client-side i.e By using type and pattern attributes in HTML We can validate the details like either it is following email pattern or not.
+On the server-side i.e By checking the details that are matching with credentials in the database records.
+
+
+5. Why are you validating on both server-side and client-side?
+
+I had explained that at the client-side users can change the properties of fields by inspecting the elements. So by validating in both server-side and client-side.
+Operating Systems and Networking Questions: The interviewer asked me that do I know Operating Systems and Networking.
+
+I said I don’t know. But the interviewer asked me some questions.
+
+1. What is IP Address?
+
+I had explained it is a unique address to identify a device on the internet.
+2. What is MAC Address?
+
+I had not answered this question.
+3. What are different types of protocols?
+
+I told only two HTTP and HTTPS.
+
+1. Given a integer k, integer n and list of n numbers. Find all pairs in which sum of first number in pair and value k gives the value of second number in pair.
+
+I wrote the below code.
+
+
+k = int(input())
+n = int(input())
+b = list(map(int,input().split()))
+from itertools import combinations as com
+pairs = list(com(b, 2))
+for i in pairs:
+    if i[0] + k == i[1]:
+        print(i)
+Ex:
+Input:
+k=1
+n=3
+list=[1,2,3]
+output:
+1,2 # 1+1=2
+2,3 # 2+1=3
+
+
+After this, the interviewer asked me to explain what I have done and asked me to run on different test cases and it gave correct solutions for all.
+
+And Then the interviewer gave another coding problem and asked to solve it.
+
+2. Given a number n find if its divisors count from 1 to n (inclusive) is prime or not. 
+
+I wrote the below code.
+
+import math
+def prime(a):
+	if a <= 1:
+		return 0
+	if a == 2:
+		return 1
+	for i in range(2, int(math.sqrt(a)) + 1):
+		if a % i == 0:
+			return 0
+	return 1
+n = int(input())
+c = 0
+for i in range(1, n + 1):
+	if n % i == 0:
+		c + = 1
+if prime(c):
+	print("Count of divisors is prime")
+else:
+	print("Count of divisors is not prime")
+
+
+Ex:
+Input:
+13
+Ouput:
+Count of divisors is prime
+Then the interviewer asked me to explain the code and asked me to run it on different test cases and it gave correct solutions.
+
+
+
+What are tags in HTML?
+Differences between HTML/CSS/JS .
+What are the TCP/IP model and OSI model?
+Differences between Microprocessor and Microcontroller.
+What is Memory Management in Python?
+Explain N-Tier Architecture.
+Public/ private/protected access specifiers.
+How will you explain the concept of a database to a 3-year-old kid?
+I was also asked to code a multiplication table for 11. This wasn’t meant to test the coding abilities, rather it was meant to check the basic understanding of the candidate towards the programming language he/she uses. I was interrupted between every keyword I used and was asked to explain why I have used the same.
+I was asked to share my screen and code on any editor of my choice. I used an online compiler for the same.
+There were also questions based on my project. Be sure to revise your project thoroughly.
+Final question.
+
+Coding Question: Array related question
+DBMS – ACID properties, rollback, and its real-time experience.
+OOPS- explain oops to me considering I am a 6-year child, Features of OOPS
+OS – semaphores, deadlock, and its condition
+DSA-Segment Trees, Stack and heap memory difference
+Python – Advantages and Disadvantages, Why Python, Memory Management in Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**************
+What is linear and non linear data structures?
+What is linked list?
+What are primary key and foreign keys?
+Name any three SQL languages.
+What are 4 pillars of object-oriented programming?
+This was SDLC ( Software Development Life Cycle) question, Infosys usually asks questions from this topic. The scenario given to me was: Government has asked to you implement Aadhaar card project, which is collect relevant data of every citizen of our country and then manages it in a  way it is right now.  how are you going to build/design your application? This is an open-ended question so, feel free to describe your approach, but make sure you cover all stages of SDLC in your approach
+
+ What was your role in this project? What challenges did you face? How you cope up with that?
+
+Open notepad and write code of checking palindrome number or not?
+
+ Write code for Armstrong Number.
+
+: What is OS?
+
+Difference between TCP and IP.
+
+Learn all basic DSA problems such as Armstrong, Palindrome, Fibonacci, prime, factorial.
+
+Then he asked me about my internship experiences, about the project I worked on in my Internship. 
+Then he asked me about the projects that I had mentioned in my resume, that what difficulties did I face while working on them, what technologies did I use etc. 
+Then we went on to discuss Front-end vs Back-end and then about OOPS concepts and then about DSA. 
+
+Given a coding question to solve
+Reverse a linked list of k-groups: https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/
+Asked me to explain my projects in-depth with the technology I used and asked me to tell me the overview of technology I used.
+
+The question was to count the frequency of characters in a string and asked me to share my screen, I open the online IDE and done that question using maps. Then he added to print the characters in reverse order of frequency.
+
+Do you know DBMS?
+What is normalization?
+How would you make a table such that only unique values can be there?
+About SQL and some keys.
+What are joins? and its types?
+Then OOPs concepts (all 4) and polymorphism and inheritance examples.
+Then he asked me from which language I want questions? I said C. He asked few basic questions
+What is a header file?
+Difference between calloc and malloc?
+And then he asked if I had any questions for him?
+I asked about the role and also if he can give me feedback for my interview.
+
+Tell me about yourself.
+Explain projects you have done.
+OOPs Questions: The interviewer asked me to do you know OOPS?
+I said yes and the interviewer started asking me questions related to OOPS
+What is oops?
+What are inheritance and its types? explain it with real life examples?
+Write down a code using inheritance and overriding.
+Write down a code to implement the hash map.
+Difference between pointer and reference .
+About my project technologies which I have used in my project. And a little discussion on that.
+Questions from SDLC(software development life cycle), What are the tasks performed in Coding phase? and What are the Maturity levels in CMM? and What is the ‘scope’ of a project?
+Then asked me if I have any question for him?
+
+
+
+Tell me something about yourself.
+Coding question related to “number of islands” problem. The interviewer gave me 10-15 mins for writing the code but telling just the approach of solving the question was also sufficient.
+Why do we need normalization in DBMS? What are its advantages and disadvantages?
+What is virtual memory?
+Explain block size and paging in the operating system.
+Difference between TCP/IP model and OSI model in computer networks.
+Difference between TCP and UDP protocol and also which is the better one.
+Explain method overloading and method overriding in detail with examples.
+Since I mentioned that I code in Python so he asked the difference between list and tuple in Python along with their time complexities.
+Brief discussion of projects and internships that I mentioned.
+
+
+Interviewer: I will give you a logical question, just give me the approach I don’t need the answer. can you do that?
+
+Me: yes sir
+
+Interviewer: I bought 72 identical items. Each item had the same cost ‘X’, and the cost was Rs. _679_  what are the first and last digits? (you can find the problem directly on google).
+
+Interviewer: Any questions for me?
+
+Me: asked him to share his experience with Infosys
+
+Interviewer: So, what are the trending technologies right now?
+
+Me: Sir, Artificial Intelligence, Machine Learning, and Internet of Things(IoT).
+
+He seemed convinced.
+
+ Okay Sir, Have a nice day ahead.
+
+given a string of digits we have to tell if it was possible to make sum 18 by adding two adjacent digits operation allowed was to delete a digit from start or from middle or from the end. The logic was that only two 9 can make 18 and no other digit sum can make 18.
+
+What are the different data structures?
+Application of graph data structure in real life.
+
+Any other questions. I asked for suggestions for improvement based on my performance in the interview.
+He said don’t worry about performance just focus on learning.
+
+
+nterviewer:  What is DS and its types?
+
+Me:  Answered.
+
+Interviewer: What is Stack and why is it called LIFO?
+
+Me: Explained.
+
+Interviewer: What are the applications of Stack ?
+
+Me: Answered.
+
+Interviewer: Which operations can be performed on Stack?
+
+Me: Explained.
+
+Interviewer: What is linked list , its types and what are its applications?
+
+Me: Answered.
+
+Interviewer: What are the differences between Array and Linked List ?
+
+Me: Explained.
+
+Interviewer: What is Queue, its types  and why it is called FIFO?
+
+Me: Explained.
+
+Interviewer: Which operations can be performed on Queue ?
+
+Me: Explained.
+
+Interviewer: What are the applications of Queue?
+
+Me: Answered.
+
+Interviewer: How  can we  implement a stack  using queue?
+
+Me: Explained.
+
+You can refer to this link for better understanding https://www.geeksforgeeks.org/implement-stack-using-queue/.
+
+Interviewer: What tree is DS? What are the differences between binary tree and binary search tree?
+
+Me: explained.
+
+You can refer to this link https://www.geeksforgeeks.org/difference-between-binary-tree-and-binary-search-tree/
+
+Interviewer: Do you know what is  AVL tree?
+
+Me: yes, and explained him.
+
+Interviewer: What is SDLC and what are its basic stages?
+
+Me:  SDLC (Software Development Life Cycle) is the process of developing software through business needs, analysis, design, implementation and Release and maintenance. It has 6 phases: Planning And Requirement Analysis, Defining Requirements, Designing Architecture,  Developing Product, Product Testing and Integration ,Deployment and Maintenance Of Product.
+
+Interviewer: What are the different models of SDLC?
+
+Me: Waterfall model, Agile model, Iterative model, Spiral model etc.
+
+Interviewer: Explain Waterfall model.
+
+Me: Explained.
+
+Interviewer: What is OS?
+
+Me: Answered.
+
+Interviewer: As a computer science engineer name a software which is very essential in real life?
+
+Me: OS and explained.
+
+Interviewer: Tell me about your extracurricular activities.
+
+Me: Answered.
+
+Interviewer: Do you have any plans for higher studies?
+
+Me: I said not now as I want to explore myself in the corporate world and after 3-4 years I will think of it.
+
+Interviewer: Are you comfortable with travelling and stay to different locations?
+
+Me: yes
+
+Interviewer: what is the meaning of your name?
+
+Me: My name is Aishwarya and it means wealth.
+
+Interviewer: Do you have any question for me?
+
+Me: Thank you for giving me this opportunity. I would like to know what attributes does someone need to have in order to be really successful in this position.
+
+ I received my Selection Letter from Infosys for SES role after 2 months .
+
+I prepared for my interview from this link:  https://discuss.codechef.com/t/preparation-for-se-ses-pp-interview-hack-with-infy-and-infytq/70917
+
+Convert a number to its negative base 2. It took 2-3 minutes and then solved it as it was a pattern-based question.
+Given a linked list and a pointer to some random node not necessarily the start or end node. We need to delete the node whose pointer is given, find the approach to do this. (I told the approach as I prepared this one from GfG itself.)
+Given 2 GB data and 1 GB RAM how to sort it using 1 GB RAM. The 2 GB file contains numbers. (he told just to explain the approach and convince him).
+
+Then he asked for some code snippets which I solved, then he moved to DBMS-
+
+What is BUFFER, CURSOR, TRIGGER, VIEW, NORMALIZATION, JOINS, and FUNCTIONS?
+Then he asked some SQL Queries questions to write on Nested Joins and Aggregate functions.
+He gave me a scenario where I have a  car manufacturer table customer table and car details table and I had to get the details of those customers who bought a red car from a particular manufacturer and are living in xyz area.
+Now he moved to other subjects –
+
+Explain DNS (Domain Name System), OSI model, Sub-net.
+Define Paging, Disk scheduling, Semaphore, Deadlock.
+Define Black-box Testing.
+By this time my Technical interview was done, and it was written in interview mail that there will be only one interview so the panelist started with the HR Questions.
+
+Tell something about INFOSYS (always do research for any company you are appearing)
+Why INFOSYS.
+Why should I hire you.
+Tell your weakness.
+HOBBIES
+
+I got the problem from array rotaiton , string and bit manipulation.
+
+I got the question from Maths, bit manipulation, and a graph and I was able to solve 2 problems completely.
+
+First question he asked me was on DP, the problem was finding longest palindrome in given string.
+
+Now the next problem he asked was from tree, he asked me to write a code to find diameter of a tree, it was a standard problem so i did the code and he asked me to explain my logic.
+After that last problem was from BST he just asked me to implement BST and find the depth of the BST again it was a standard problem and i did the implementation using structure .
+
+Which language did you use for InfyTQ certification?
+What is your long term goal?
+Why should we hire you?
+Explain the project which I mentioned in my resume.
+Asked some project-related questions
+Have you worked with any databases? If yes which one?
+What is an Index of a Table?
+Advantages and Disadvantages of Index of a table?
+Write a program to print 1-100 numbers which are divisible by 3, divisible by 5, divisible by 3 and 5.
+Have you worked with OOPS?
+Difference between C++ and Python?
+Any questions for him?
+
+Self-introduction.
+Which programming language are you comfortable in? (I told Java).
+Differences between an Abstract class and an Interface. Also asked to create an Interface.
+Virtual class Vs pure virtual class.
+What is Pass by value and Pass by reference? The interviewer gave two codes and asked which is Pass by value and which is Pass by reference.
+Polymorphism and its types with examples.
+Some basic SQL queries.
+Write an SQL query to retrieve the name of the employee with the third-highest salary.
+What is the procedure?
+What are the triggers?
+Advantages of procedures.
+What is the Primary key?
+What is a Unique keyword?
+What is a Clustered index?
+Asked to explain the project I did during my internship.
+Challenges I faced during the project.
+What are the new technologies I learned during the internship?
+Program for Bubble sort.
+Program to count the number of words in a given string.
+Program to reverse a string without using in-built functions.
+Code for creating and using a HashMap.
+How much do you rate yourself on Java and DBMS?
+Why do you want to join Infosys?
+How do you see yourself in the next five years?
+Discussion on my other areas of interest.
+
+Which programming language do you choose for the exam? (Ans. Python)
+Why you choose/ learn python? Why not another language?
+What is Exception Handling?
+What is Tuple?
+What is DBMS?
+What is RDBMS?
+What is Data structure?
+What is a Linked list?
+Type of linked list?
+What is OOPs concept?
+What is Encapsulation?
+Ask About My projects?
+
+(EASY- 50 points) Question 1: Write a program to add all the natural number till N, but not In decimal, do it in binary.
+
+Example1:
+
+input: 2(value of N)
+output: 11
+Explanation:  binary of 1= 01
+binary of 2= 10
+01+10=11
+Example2:
+
+input: 3
+output: 22
+Explanation:  binary of 1= 01
+binary of 2= 10
+binary of 3= 11
+01+10+11=22
+Example3:
+
+input: 4
+output: 122
+MyCode (In Python): (Inside Function)
+
+total=0
+for i in range(1,N+1):
+       total+=int(bin(i)[2:])
+return total
+Note: Even though My code was right and it was working fine in all sample input that I was entering manually. But this code was only passing 1 test case and the rest of the test cases are unable to pass due to the Time limit. (Sadly, I Only get 3 points out of 50.)
+
+(MEDIUM-75 points) Ques2: Calculate the sum of Ai/Aj, where A is an Array of N numbers?
+
+Example1:
+
+Input: 3 (N no. of elements)
+1 3 2
+Output: 9
+Explain:
+1/1 + 1/2 +1/3 =1+0+0=1
+3/1 + 3/2 +3/3= 3+1+1=5
+2/1 + 2/2 + 2/3= 2+1+0=3
+1+3+5=9
+My code was unable to pass 2 test cases due to the time limit, but the rest of the test cases successfully passes and from this question, I got 55 points.
+
+The Longest Increasing Subsequences DP)
+
+what is greedy algorithm and what is Dynamic programming (Theoretical concepts) I answered, I requested him to explain via pen and paper by drawing recursion tree of Fibonacci problem and code that DP problem also the interviewer got impressed. After then, he asked me what is the disadvantages of Greedy over Dynamic Programming that I couldn’t explain well, I told him regarding part in 9:40 AM my interview got over.
+
+Interviewer: What is SDLC? What are the various models?
+Me: Answered.
+Interviewer: Which SDLC model is used in the industry these days?
+Me: I said No as I don’t know about that.
+Interviewer: Explain normalization and it’s types.
+Me: Answered.
+Interviewer: Do you know about SQL queries?
+Me: Yes
+Interviewer: I will share a table with you a query has to be written according to the question asked.
+Me: Answered the query in the chatbox.
+Interviewer: Which all sorting algorithms you know?
+Me: Answered.
+Interviewer: Write a code(any language) for Quick Sort.
+Me: Answered in the chatbox.
+Interviewer: Which is the best sorting algorithm and why?
+Me: Answered.
+Interviewer: Difference between array and linked list?
+Me: Answered(atleast answer 3 differences)
+Interviewer: Do you have any question?
+Me: Asked 1-2 questions.
+Interviewer: Answered.
+
+Tell me your favourite subjects, after taking a basic intro
+What is DBMS?
+Difference between DBMS and RDBMS?
+What is the heap?
+Difference between heap and stack and benefit of the heap over a stack?
+What is the difference between super and this keyword?
+What is oops and explain a different aspect of it using real-life example?
+What is the weak entity?
+What do you mean by relationship in RDBMS?
+Modern technology that you are interested in (I said cloud computing, so he asked some basic questions on it)
+Types of service model in Cloud computing
+Do you have any hands-on experience on any cloud platform?
+
+I have only practiced 15 days on hackerearth algorithm section especially string manipulation.
+He asked me to share my screen to make a prime number program and simple file handling program in python.
+I have mentioned the latest tech like ReactJS, MongoDB so he asked questions from these techs (Basic).
+Technology awareness questions. (if I am aware of cloud, machine learning, etc.).
+Some data structure questions (array, linked list, and their difference, etc.)
+
+
+ Question 1: Write a program to add all the natural numbers till N but in binary.
+
+#input: 2(value of N)
+#output: 11
+#Explanation:  binary of 1= 01
+#binary of 2= 10
+#01+10=11
+  
+result=0
+for i in range(1,N+1):
+       result+=int(bin(i)[2:])
+return result
+Question 2: Longest Common Subsequence in two given strings. I have used python as it was my favorite till this test. I don’t know why it is getting the time limit to exceed and only one test case gets passed. After discussing it with my seniors. They advised me not to use python in CP.
+Do you have any questions for me?
+I asked about projects I might get to work on and further growth opportunities in Infosys.
+
+
+
+
+
+
+The third question was what is the difference between java and python. Next question was what is oops, explain oops concept with a real-world example. Then she asked what is the difference between data abstraction and data hiding. Then she asked some hr. questions like what are your other goals apart from career goals. And then interview lasted for about 15-20 minutes and then it got ended.
+
+
+Write a program to print the greatest number from a given string.
+
+Me: I used python language and wrote the code for that.
+
+Interviewer: Do you know exception handling?  
+
+Me: yes, and explained him
+
+Interviewer: Given a situation based on my project, If you have organized an event in college and you have to show your principal how many students have participated in the event using web development and database connectivity. Which query will you fire?
+
+Me: Answered the select query for so. He told me the fields in the database table based on that I wrote the query.
+
+Interviewer: Write the insert query for the situation given?
+
+Me: Answered
+
+Interviewer: Why Infosys?
+
+Me: Because it is one of the fastest growing and reputed company in India.  
+
+Tip: Just tell all the good things you feel in your dream company : )
+
+Interviewer: Smiling, why do you think it is reputed?
+
+Me: Answered
+
+Interviewer: Any plans for higher studies?
+
+Me: I said yes but now due to financial condition I want to do job first then I’ll think of higher studies.
+
+Tip: If you want to be selected then Just tell no I have not planned to do so, this I got to know after my interview that we should say no for this question.
+
+Interviewer: Any questions for me?
+
+Me: Thank you for giving me this opportunity. I would like to know your good name and position in the organization so that I can answer my friends and family who took my interview. Also I wanted to know my weekness because you took interviewed me and as experienced person you can tell me what was my weakness so I will try my best to enhance my knowledge.
+
+Interviewer: As due to company policies I cant tell my name and position and I’ll let you know your performance.
+
+Me: Ok sir.
+
+Tips: You should thank them for giving this opportunity and ask the questions like culture of company, A day in the company, How should I enhance my skills like these questions.
+
+After 2 months I received my Selection Letter from Infosys for SES role.
+
+(If your college have tie-up with them then the results are provided to your tpo else you will receive personally.)
+
+Some useful Tips:  
+
+I mentioned my Final Year Project (Questions were like – Why you used the particular platform and framework, some details about the project).
+Asked about Agile framework (It is a sprint process of Software Development).
+What are Normalization and Denormalization?
+What are the functions of DELETE, TRUNCATE and DROP commands? Also, some of their properties (It is part of DBMS).
+Programming Language of my interest for general programming and for Object-oriented programming (I told C and C++ respectively).
+Can we make custom header files in C? (Yes, we can develop function prototypes with all requirements and include them as header files using “#include”).
+Why Java is platform-independent language?
+Features of OOPs.
+Which Inheritance is not supported in Java and why?
+Given a professional situation and asked my response on it.
+Long term goals. (It is also one of the general questions asked in an interview, prepare it beforehand and it must be your own).
+
+
+Interview: Write Bubble Sort algo.
+
+Me: Written. 
+
+Interview: Difference between DFS and BFS.
+
+Me: Answered.
+
+Interviewer: What is Normalization and types of Normalization?
+
+Me: Answered.
+
+Interviewer: Difference between Drop, Delete, and Truncate.
+
+Me: Answered.
+
+Interviewer: Diff between DBMS and RDBMS.
+
+Me: Answered.
+
+Interviewer: A question from Computer Networks.
+
+Me: I could not answer as I was from ECE.
+
+Interview: Describe your project.
+
+Me: Described.
+
+Do you wish to study further or Do you want to have your own startup after 1-2 years?
+Tell me about the OOPs concept.
+After this he asked me to do a code showing Inheritance concept in Java.
+Tell me different types of Data Structure.
+Explain me how to print middle node in Linked List.
+After this he asked me about my Final year, my role in project and future scope of project.
+Since my project was based on Machine Learning technology, he asked me some basic questions of ML.
+After this he asked some questions about database and asked me to write some SQL queries.
+
+Interviewer: Write a program to find the root value of any number up to two decimal places?
+
+Me: Answered 
+
+Interviewer: Show me your project?
+
+Me: I have developed one web application, so I explained it live.
+
+Interviewer: Make an Architecture diagram of your project?
+
+Me: I could not understand  at that moment 
+
+Interviewer: In which technical strength you are comfortable?
+
+Me: SQL
+
+Interviewer: What is join?
+
+Me: When we have to fetch a combined record from more than one table then we use the join keyword.
+
+Interviewer: Write a query for left join?
+
+Me: Answered
+
+Interviewer: Do you know oops concepts?
+
+Me: Yes sir
+
+Interviewer: Tell me any three oops concepts?
+
+Me: I explained Inheritance, Abstraction, and Encapsulation.
+
+Interviewer: I am done, If you have any query then you can ask me?
+
+Me: How much time I will have to join if I selected?
+
+Interviewer: After completion of B. tech
+
+Me: Thank you, sir.
+
+One coding question (find the nth Prime Number)
+Unique vs Primary Key
+Explain the Waterfall model
+Thread vs Process
+Layers of OSI model.
+Do you have questions to ask?
+
+Difference between array and LinkedList?
+Difference between interface and abstraction?
+Difference between method overloading and method overriding?
+
+
+Basic principles of OOP’s explain?
+Diff between CPP and python?
+Error handling in python?
+Exception handling in python?
+What is Software Development life cycle?
+Testing and its types?
+Diff between Ml and Iot?
+Example of IoT?
+Where you in the next 5 years?
+
+Interviewer: What are RestAPI and why we use it?
+
+Me: Answered
+
+Interviewer: What are triggers and what its use?
+
+Me: Answered. For example, the interviewer was impressed by my example
+
+Interviewer: What is Normalisation?
+
+Me: Answered.
+
+Interviewer: Diff between NoSQL and SQL
+
+Me: Answered
+
+Interviewer: What is solid in oops?
+
+Me: I had no idea about that
+
+Interviewer: What is AWS Lambda?
+
+Me: Answered (I am AWS Certified Solution Architect that’s why he asked)
+
+Interviewer: What is Iaas Paas Saas?
+
+Me: Answered
+
+Interviewer: Explain Bubble Sort.
+
+Me: Explained.
+
+Interviewer: Why bubble sort have n^2 complexity?
+
+Me: Answered.
+
+Do any questions using recursion and then further questionnaire and discuss.
+Swap number using above concept and point recursion and many cross-questioning and all
+Reverse questions followed by situation based questions and further questions related to that
+
+What is the trigger
+Asked to write a query for the given database using joins
+Five OOPs based questions along with real-time applications.
+Tell me about the Second Project you mentioned in your resume.  He again patiently listened and asked five questions about it.
+Applications of Hash map  
+DBMS Scenario based question like which database used for movie tickets selling software  
+At last, a program is given and asked to tell the approach and draw the flowchart, and asked how many decision boxes used.  
+
+software and tools used for testing Application, Type of architecture used for making application, challenges faced, how will you manage login issues related your application, SDLC used, Data structures you used, Databases you Used, How will you solve transaction problems, what if connectivity is lost during the transaction, questions related to concurrency, multiple logins and shared preferences. (my Project is Android App.)
+
+
+Tell me about yourself
+Is your project based on 2-tier architecture or 3-tier?
+Then he asked me to explain how my project is 3-tier based.
+Then he asked me about the difference between 2-tier and 3-tier architecture.
+I have used IBM Watson in my project then, so he asked me about IBM Watson and terms related to it.
+Then he asked me that am I aware of the OOPS concept?
+What is OOPS?
+Difference between Encapsulation and Abstraction with a real-life example.
+Polymorphism and its types.
+Write code for method overriding and overloading.
+Code for encapsulation and abstraction.
+Explain Data Structure with its types.
+Implement Linked List with all operations.
+Then he asked me which language I’m comfortable.(I told Python)
+How to delete elements from the list in Python.
+Monkey Patching Problem in Python(I was not able to answer it)
+Modules in Python and data structures in Python.
+Asked me to write code for bubble sort and explain it.
+Asked about binary search and its applications.
+Asked about normalization and its dis-advantages and about de-normalization.
+DDL and DML in SQL.
+Difference between truncate, delete, and drop.
+Explain Cloud Computing.
+Explain about PaaS in Cloud Computing with example.
+What are your goals for the next 5 years?
+
+arrays and strings parsing
+
+The first question was the least number of the unique number after k removals you can check the code here https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+
+The second question was on matrix manipulation. I have solved both questions completely and also solved most of the MCQ’s correctly.  After some days I got mail that I have cleared the final round and was selected for an interview for the role of Systems Engineers at Infosys. If you want to clear the InfyTQ exam then prepare well, do practice for problem-solving, and also prepare basics of oops, data structures, and database.
+
+Asked me why python
+Asked code for encapsulation in python
+Code for removing vowels from the given string
+Which sorting algorithm is best fits to sort a nearly sorted array
+When we use heap sort
+Asked to write a query to find second highest salary from the given table
+Asked where we use the graph in real life
+
+The two coding questions are:
+
+Password Generator.
+
+def generatePassword(strArr):
+    ans = ""
+    for string in strArr:
+        index = string.index(":")
+        x = len(string[:index])
+        z = sorted(string[index+1:], reverse = True)
+        for i in z:
+            if int(i) <= x:
+                ans += string[int(i)-1]
+                break
+        else:
+            ans += "X"
+    return ans
+  
+  
+strArr = [str(i) for i in input().split()]
+result = generatePassword(strArr)
+print(result)
+The Longest Fibonacci series into an array
+
+def LongestFibo(arr):
+    n = len(arr)
+    longFibo = []
+    for i in range(n):
+        for j in range(i+1,n):
+            fibo = []
+            first = arr[i]
+            second = arr[j]
+            fibo.append(first)
+            fibo.append(second)
+            for k in range(j+1,n):
+                if (first + second)== arr[k]:
+                    fibo.append(arr[k])
+                    first = second
+                    second = arr[k]
+            if len(fibo) > len(longFibo):
+                longFibo = fibo
+  
+    if len(longFibo) > 2:
+        return longFibo
+    else:
+        return [-1]
+  
+arr = [int(i) for i in input().split()]
+result = LongestFibo(arr)
+print(*result)
+
+
+
+Why do you want to join Infosys?
+Who is the CEO and Founder of Infosys?
+Which-which IT application do you use in your daily life?
+
+He asked me to debug a c code that is of checking palindrome.
+He asked me the square root of some number as well
+
+
+Question No. 1: There is a tree with n nodes and n-1 edges. Two integers u and v are given. We need to find the number of valid unordered pairs. The definition for a pair to be valid is given as follows: A pair {x,y} is valid if, in the shortest path from x to y, if both u and v are present then in this path v must come before u. If u or v or both are absent in the path then the pair is valid. 
+
+Sample:
+
+Input: n=3, u=1, v=3  edges were 1<->2,  2<->3
+Output:5
+
+Explanation: (Explanation was not given by the interviewer)
+The given tree:
+1
+ \
+  2
+   \
+    3
+Valid pairs: 
+{1,2}: v is not present, therefore the pair is valid
+{2,1}: {2,1} and {1,2} are considered diff pair
+{2,3}: u is not present, therefore the pair is valid
+{3,2}: {2,3} and{3,2} are considered diff pair
+{3,1}: Path from 3 to 1: 3->2->1. In this path v (i.e 3) comes before u (i.e 1)
+It took me around 15 mins just to grasp what the question was asking me to do. After coding for the next 45mins I was able to run my code. The interviewer gave me 3 test cases in the chatbox and asked me to run my code on them. It gave the correct answers in 2 test cases and wrong in the 3rd test case. 
+
+(After the interview I came to know that this question was asked to 4 of my friends and none were able to run it).
+
+Question No. 2: Given a 2GB file and RAM size is 1GB. Design an algorithm to sort the file. This question was known to be and I quickly explained my algorithm to the interviewer.
+
+Question No. 3: This question was from DBMS. What is equijoin?  What is the rank function in SQL? Even though I studied DBMS and worked on SQL, still I was not aware of both the questions and eventually was not able to answer.
+
+The Interview lasted for around 75 mins. And with some basic HR questions like goals, aspiration… the interview ended.
+
+ROUND 4(Technical Interview 2): I don’t know if technical round 2 was there for all the students, but from my college, all were called for another round. In this round also there was only one panelist. Questions were from DBMS, OOP, projects, internship experiences……….
+
+We got the result after 10 days, and I was offered a Systems Engineer Specialist Role,
+
+
+Variation of subset-sum problem question. https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ 
+A string manipulation question. https://www.geeksforgeeks.org/rearrange-given-binary-strings-to-maximize-their-bitwise-xor-value/
+An array-based question. https://www.geeksforgeeks.org/minimum-number-of-operations-toconvert-a-given-sequence-into-a-geometric-progression-set-2/ )
+
+
+You are given an array of size N.A function X(A) computes the Xor of all the values of the array ie. A[1] ^ A[2] ^ A[3] ^ A[4] ^… A[N]  where ^ is the bitwise Xor Operation. You form an array B of size (N*(N-1))/2from array A. The array B contains all the pairwise Xor from the array A i.e. A[i]^A[j] where i<j.  Find the value of X(B).
+You are given the array A of N elements as follows : [a1,a2,a3,………….,an] You need to find the maximum possible Xor Sum of any good subsequence of array A.  A subsequence S is good if, for every A(i) present in S, A(n-i+1) is also present in S.
+You are given a graph. Initially, you are at node1 and you want to reach the node N. The graph consists of N nodes and M undirected edges. It takes 1 unit of time to go through the edges. There are K moments of time in which the edges can disappear. What is the minimal time required to reach the node N. If it is impossible then print -1.
+
+
+Naïve Approach: Using Backtracking with the time complexity of O(n!). https://www.geeksforgeeks.org/traveling-salesman-problem-tspimplementation/ )
+Approximate Solution Approach: Using Krushkal’s Algorithm with time complexity of O((ElogV). https://www.geeksforgeeks.org/kruskals-minimum-spanning-treealgorithm-greedy-algo-2/ )
+
+
+Maximum Sum of all Triplets Score [ EASY]
+
+Given an array of length n, where n is multiple of 3. Construct n/3 triplets (a,b,c) such that a<=b<=c, then the score of the triplet is b (middle element), such that sum of all triplets score is maximum.
+
+Ex: array = [ 4 , 2 , 3 , 1 , 5, 6 ] , 2 triplets t1 = [ 1 , 5 , 6] , t2 = [ 2 , 3 , 4] — > total score is 5 + 3 = 8
+
+Approach 1
+
+step 1: Sort the array
+
+step 2 : consider 1 smallest and 2 large numbers have one triplet
+
+step 3: sum of all the triplets score
+
+Approach 2
+
+step 1: create max heap
+
+step 2: pop and pop the next largest and add it to the sum
+
+step 3: repeat this step 2 for n/3 times
+
+Round 2
+
+Round 2, contains three problem-solving coding questions hosted by HackerEarth. Three Questions of different difficulties. Easy for 50 points, Medium for 75 points, Hard for 100 points. Total of 225 points. I have solved two coding questions(Easy, medium). In this round, we are not able to see how many test cases are passed.
+
+Maximum Number of cities can be visited [EASY]
+
+Given N cities, and exist N-1 roads (bi-directional), such that all cities are can be visited through these roads. There are M devils, they sit in m different cities. Everyone is afraid of the devil so that we cannot visit that city. Find the maximum number of cities that can be visited from city “1”. Given N cities, and N-1 roads between city X and city Y. M devil, on which city they sit.
+
+Example: 10 cities
+
+roads between city X and City Y
+
+1 2
+
+1 3
+
+1 4
+
+2 5
+
+2 6
+
+3 8
+
+3 7
+
+4 9
+
+8 10
+
+3 devils sat on city 2, 8, 9
+
+output : 3
+
+we can visit 3, 7, 4
+
+Approach
+
+construct a graph
+Traverse DFS or BFS and count Number of Cities can be visited
+Maximum of Student Groups can Satisfy [ MEDIUM ]
+
+Given N student groups, group size may vary and M different radius ball groups, group size may vary. A student group is said to be satisfied if, in each group have different radius balls and each student has at least one ball. The ball’s position is the radius of the ball.
+
+Ex: Student groups [ 1, 2, 3]
+
+Balls [ 2, 2, 2]
+
+Balls with radius 1 are 2
+
+Balls with radius 2 are 2
+
+Balls with radius 3 are 3
+
+Output : 3
+
+Explanation:
+
+for Student group 1 –> size 1, can have a ball with radius 1 remaining [ 1, 2, 2]
+
+for student group 2 — > size 2, can have balls with radius 2 and 3 remaining [1, 1, 1 ]
+
+for student group 3 –> size 3, can have balls with radius 1, 2, and 3 remaining [ 0, 0, 0 ]
+
+All student groups are Satisfied
+
+.
+
+.
+
+Top 108 participants are selected for Hackathon [ Round 3]. I am not in Top 108 participants
+
+InterviewsRound 1 TR (Time 50 mins to 1 Hour)
+
+It is a virtual interview hosted on Cisco Webex.
+
+Interviewer: Tell me about yourself
+
+Me: answered
+
+Interviewer: favorite programming language
+
+Me: Python
+
+Interviewer: Python vs Java
+
+Me: answered
+
+Interviewer: share your screen, and write a program that reads a word and determine how many words, with the same number of letters as the input, it might represent.
+
+
+Morce code
+
+example
+
+input: ETA
+
+output: 7
+
+explanation
+
+ETA can be represented as . – . –
+
+ETA — > . – . –
+
+ETET — > . – . –
+
+AET — > . – . –
+
+ENA — > . – . –
+
+EK –> . – . –
+
+AA — > . – . –
+
+RT — > . – . –
+
+Me: Explained approach use Recursion and written code using memorization of recursion results
+
+We ended the interview
+
+Round 2 TR (15 mins)
+
+Interviewer: Tell me about yourself
+
+Me: answered
+
+Interviewer: Process vs Thread
+
+Me: answered
+
+the interviewer asked about some personal questions
+
+We ended the Interview
+
+After ten days I have received mail
+
+
+Then he gave me a coding question.
+
+How to design a tiny URL or URL shortener?
+
+Problem: Given a palindrome number, find the next higher palindrome.
+After that, he started asking questions about my projects (cryptography).
+
+: Take 5 random elements to arrange it in a double-linked list and then apply to merge sort on it ( H
+
+How you store a password to make it secure? Any other Idea? I said no.
+He told me that we use hashing (gave an explanation to make me understand).
+Do you know what is hashing? 
+Tell me about your internships.
+How confident you are in React and Redux(I have mentioned in my resume)?
+How good you are at Data structures?
+What is a linked list?
+ What are stack and queue? How you will implement them with Linked list?
+Any real-time use of stack and queue?
+What is the difference between HTTP and HTTPS?
+How HTTPS is more secure? I said I don’t know. He explained the answer.
+What are the testing and the types of testing?
+What is the web? How does it work? Components of web technology? Answered properly as i have done 9 months of internship on the web.
+Gave me a situation to develop an application based on the graph? Basically, it was TSP (Travelings Salesman Person), I forgot the name of the algorithm but I explained the method.
+Do you want to pursue higher studies? I said no along with the proper reason.
+
+
+Interviewer: Okay, then tell me what is the red-black tree?
+
+Me: It is a balanced tree sir, we can do any operation in LogN time complexity. (Somewhat managed).
+
+Interviewer: Okay, What do you mean by a balanced tree?
+
+Me: Yes sir, if the difference between the height of the left subtree and right subtree is less than or equal to one. then it is called a balanced tree.
+
+Interviewer: Okay. Can you share your screen?
+
+Me: Yes sir.
+
+Interviewer: Okay. Can you write a program to traverse a tree? 
+
+Me: After 3 mins I wrote inorder traversal and explained my code to him.
+
+Interviewer: Let’s assume you have a sorted array, if you want to have a sorted array using selection sort what is the time complexity?
+
+Me: I told O(N^2) ( But he’s asking again and again are you sure???). I was confused and then realizing that it was already sorted, So no need to sort the array. Then I told O(1) sir.
+
+Interviewer : (Smiled)
+
+Me: Me too (Smiled). 
+
+Interviewer: Then I write a program for selection sort? 
+
+Me: After 3 mins I wrote it and explained it to him.
+
+Interviewer: Ok. Let’s move to Computer Networks.
+
+Me: Sure sir (with a smiley face).
+
+Interviewer: What is the difference between TCP and UDP ? 
+
+Me: TCP is a connection-oriented protocol and UDP is not a connection-oriented protocol
+
+Interviewer: Tell me OSI Layers : 
+
+Me: Told only 6 layers. I forgot one layer. (It was session layer)
+
+Interviewer: Okay. I have done it with you. Any Questions to me.
+
+Me: I asked about my feedback.
+
+Interviewer: Sorry. We can’t tell that now. After 2 weeks we will send your results.
+
+Me: Thank you, sir.
+
+Interviewer: Thank you 
+
+Note: No questions about family background, tell me about yourself and projects.
+
+After 20 days, I got results.
+
+1 question was from array.
+
+Given a two array consist of 0 and 1
+
+It can perform two operations:
+
+You can change 0 to 1 or 1 to 0.
+Swap the numbers
+Output: We have to do a minimum operation to make two arrays equal.
+
+2. It was number theory.
+
+You have given a digit N
+
+You have to make N length of digit palindromic and also to take that number which is divisible by 9.
+
+Then find the sum of those numbers.
+
+Output: Print the Sum.
+
+3. It was from the array.
+
+You have given an array. And also you have given l1, r1, l2, r2
+
+You need to find the pair of indices of value in the array. When both values are equal.
+
+Write an SQL command to join the contents of 2 different tables.
+
+1st. You are given a string containing at least 1 special character, 1 odd digit, and 1 even digit. We need to count the number of special characters in the string. Based on the parity of count ( ODD/EVEN ) we need to generate the output string.
+–> If count is odd, we need to arrange odd and even digits alternatively starting with odd digit first.
+–> If count is even, we need to arrange even and odd digits alternatively starting with even digit first.
+–> Append the remaining odd/even digits the end
+
+Keep in mind the relative order of odd and even digit should remain the same.
+
+For example – for input string “@2$1347%”, there are 3 special characters, 2 even digits, and 3 odd digit.
+so the output string will be – “12347” (Beginning with odd as count is odd).
+
+2nd . You are given a string containing only digits. We need to need to find the special substrings present in input. Special substring is defined as a substring whose integer value can be defined as product of two consecutive integers ie X = n * (n + 1). Note – substring with integer value 0 is not considered as special.
+
+For example – For input string “1242” special substring will be “12”, “2”, “42”, “2”.
+
+
+
+Longest subsequence consisting of alternate vowels and consonants
+
+Difficulty Level : Medium
+Last Updated : 28 Jun, 2021
+Given a non-empty string S, the task is to print the longest subsequence from the string S which contains alternating vowels and consonants. 
+Note: If multiple such subsequences exist having the same length, print the subsequence having the maximum sum of ASCII values of its characters.
+Examples: 
+
+Input: S = “geeksforgeeks” 
+Output: gesores 
+Explanation: “gekorek”, “gekores”, “gekogek”, “gekoges”, “gesorek”, “gesores”, “gesogek”, “gesoges”, “geforek”, “gefores”, “gefogek” and “gefoges” are the possible longest subsequences with alternating consonants and vowels. “gesores” is the subsequence with maximum sum of ASCII values of characters and hence it is the solution.
+
+Input: S = “ababababab” 
+Output: ababababab 
+Explanation: “ababababab” is the longest possible subsequence containing alternating vowels and consonants. 
+
+
+ First was based on the merge sort and the second was of linked list.
+
+Programs related to string concepts, dangling pointer, memory leak 
+Vector, list STL concepts 
+Atoi conversation 
+Exception handling 
+Upcasting and downcasting 
+Heap and stack related questions 
+Abstract class, pure virtual function 
+The vptr table, copy constructor 
+Discussion about previous projects done 
+How we have used overloading, exception handling in your project 
+
+
+Question 1 (Even-Odd series): Given a string and it contains the digits as well as non-digits. We have to find the count of non-digits. If it is odd then remove all the non-digits and print the string as in even-odd order.If it is even then print the string as in odd-even order.
+
+E.g. The given string is */24#5%7&9*3@. We have to count the non-digit. It’s 7, odd. Then remove all the digits from the string and output will become (in a string) 254739. In the problem, we have only 2 even and 4 odd numbers then after the even number of completion print the remaining odd numbers.
+
+Solution: This is a basic question and the time complexity is O(n)
+
+string = input() 
+characters = []
+even = []
+odd = []
+for i in string:
+    if i.isdigit():
+        if int(i)%2==0:
+            even.append(i)
+        else:
+            odd.append(i)
+    else:
+        characters.append(i)
+   
+charlen = len(characters)
+minlen = min(len(odd),len(even))
+result = []
+if charlen%2 == 0:
+    for i in range(minlen):
+        result.append(odd.pop(0))
+        result.append(even.pop(0))
+    result.extend(even)
+    result.extend(odd)
+else:
+    for i in range(minlen):
+        result.append(even.pop(0))
+        result.append(odd.pop(0))
+    result.extend(even)
+    result.extend(odd)
+      
+print("".join(result))
+Question 2: Given a non-empty string S, the task is to print the longest subsequence from the string S which contains alternating vowels and consonants.
+
+Note: If multiple such subsequences exist having the same length, print the subsequence having the maximum sum of ASCII values of its characters.
+
+Example 1: If the input is ‘greatness’ the possible solutions are ‘getes’, ‘gates’, ‘retes’, ‘rates’. Out of these the one with the maximum ASCII sum is ‘retes’
+Example 2: If the input is ‘ababababab’ , the output is ‘ababababab’.
+Solution: This is a moderate question and the Time complexity is O(n).
+
+def isvowel(ch):
+    if ch == 'a' or ch == 'e' or ch == 'i' or ch == 'o' or ch=='u':
+        return 1
+    return 0
+s = input()
+flag = 0
+if isvowel(s[0]):
+    flag = 1
+result = [s[0]]
+for i in s[1:]:
+    if isvowel(i) == flag:
+        if ord(i)>ord(result[-1]):
+            result[-1] = i
+    else:
+        result.append(i)
+        flag = (flag +1)%2
+   
+print("".join(result))
+One thing I noticed was that even if you solve this question 2 using combinations stills all the test cases will be passed. There will be not that much time complexity issues in Round 2. I passed all the test cases of both programs. On 6th July, I received a mail congratulating me for clearing the final round. This year the cleared students’ percentage is comparatively high. In my state around 1350 students cleared Round 2
+
+
+He: So can you write a query if I give you a problem statement?
+
+Me: Sure Sir.
+
+He then gave me a problem, It was a left join.
+
+He: What if I want this? Again he started confusing me and i was so confused that I told him Full as Inner and Inner as Full then I suddenly Realised.
+
+Me: Sir…….
+
+He: You are only confused with names not with Concepts… thats good.
+
+He: I am satisfied with you Anubhav. Would you like to ask me something?
+
+Me: Yes Sir, You good name?
+
+He: Nitin
+
+Me: And then I played my masterstroke… I have prepared a good question for this (was related to Infosys and Social Cause).
+
+He: He smiled the answerd for about 10 mins explaining everything.
+
+He: Any Constraints?
+
+Me: Sorry Sir?
+
+He: Any migration constraints?
+
+Me: No Sir
+
+He: If you are sent to Chennai then also?
+
+Me: I have been to Chennai last year?
+
+He: In which month?
+
+Me: December
+
+We just have to find the maximum difference between the indexes of each trough and crest.
+Example:
+Input:
+8 
+3 6 2 8 9 5 10 1
+Output: 5
+Explanation: So, there are 2 crests at position (1 & 6) and two troughs at position (2 and 5) now you can see that 6-1 > 5-2 therefore answer is 5.
+
+For more knowledge about trough and crest: https://en.wikipedia.org/wiki/Crest_and_trough
+
+I remember that was on Prime numbers ad we have to found the no. of prime numbers between the given range. The only problem was that range can be between 1 to 10^18.
+I was able to solve one problem (crests and troughs one).
+
+Round 3:
+
+Tell me about yourself?
+Give some briefing about the project that you have mentioned in your resume.
+He asks to write check prime pseudo-code https://www.geeksforgeeks.org/c-program-to-check-prime-number/.
+How many job interviews you have given before this one?
+What are your strength and weaknesses?
+What are your hobbies?
+Did you watch the Ashes Cricket Match that is going on right now? (I told him that I am in our college cricket team.)
+Infosys is only in Pune, Hyderabad and Bangalore are u ready to relocate?
+
+
+. To make all string same by left rotation. You have to find minimum number of left rotation.
+2. Grid Problem with DP and some additional Constraints.
+3. Similar to Graph Traversal DFS.
+
+1. What are Decision Trees?
+2. What are Neural Networks?
+
+After that they give me a Problem To search an element in sorted rotated array. I told them the o(logn) approach of it.
+
+Some Question Where
+1. Abstraction and Encapsulation.
+2. What is Rest API.
+3. Explain layers of OSI Model.
+4. What are Operating System. Which OS do you use? Why Linux?
+5. About my Internship Experience and Technologies I learned there?
+6. Favourite language and Why?
+7. What is Protocol?
+
+Hands-on Coding Question I:- Even-Odd Series 
+
+Given a string and it contains the digits as well as non-digits. We have to find the count of non-digits. If it is odd then remove all the non-digits and print the string as in even-odd order. 
+
+E.g. The given string is  */24#5%7&9*3@. We have to count the non-digit. It’s 7, odd. Then remove all the digits from the string and output will become (in a string) 254739. In the problem, we have only 2 even and 4 odd numbers then after the even number of completion print the remaining odd numbers. 
+
+Hands-on Coding Question I:- Pronic Number 
+
+Given a string in which random numbers are present and we have to find the product and the number(one is lesser and one is greater) who already present in the string. Confusing,  Let’s see the example: 
+
+E.g. Given a string contains 1203456. The multiplication of 3 and 4(one is lesser and one is greater) product become 12 and it’s present in the string. Like 4 and 5(one is lesser and one is greater) the product is 20 and it’s present in the string and so on. In such a way, We have to find all the numbers and in the output just we have to store the only product in the list like[ ’12’, ’20’]. 
+
+If we haven’t found the product then print -1. 
+
+  How do you sort a liked list (Not By Swapping their values) 6) Prime Number Program with low time complexity  8) Explain about Incremental Model(Software Engineering) 9) Explain about Software Development LifeCycle ? 10)Why do you want to join Infosys ? and Other basic HR Questions.
+
+1. What is a fibonacci sequence? Draw a tree to show how we evaluate fibonaaci(N).  WAP to print fibonacci series upto N. Then the interviewer asked me to explain my code and draw a tree and show how memoization was being used in the tree. I answered all of it.
+
+Q2. 
+
+Which sorting algo works on divide and conquer principle. Ans – MergeSort
+Show in dry run how merge sort works.
+WAP to implement merge sort. Written.
+Q3. WAP to find middle of LL if length is odd, if length is even, print can find mid. (TIP- always consider corner cases)
+
+Q4. Given an integer, print the next smallest palindrome. Eg. If integer is 123, output must be 131, if I/P is 1245 O/P must 1331.
+
+The first question asked me to take a string input containing alphabets, numbers and special symbols (say 3$5&^*7264&). Then, I had to count the number of special symbols. The above example has 5 special symbol which is odd, so I had to print an odd number first followed by an even number. The output should only consist of digits.
+Hint: The output should be 325674.
+I was asked to take an input say (12630). I had to find out all the numbers in this input which was a multiplication of consecutive numbers. It included 2(1*2), 6(2*3), 12(3*4), 30(5*6).
+
+
+Question number 1
+
+Given an array of n elements and a number m, we need to find all distinct pairs existing in the array whose pair sum is divisible by the given number m and then print the total number of such pairs. Distinct pairs means (1, 2) and (2, 1) are the same. Here I was able to pass half of the total cases and the rest cases did not pass due to exceeding the given time complexity constraint.
+
+Question number 2
+
+A string manipulation question. I managed to pass 2 out of 13 cases here.
+
+Question number 3
+
+It was a problem based on arrays. I managed to pass 8 out of 13 test cases.
+
+Overall if you have moderate coding skills you are good to sail through this round. After 2 weeks I was among the 260 odd students from VIT Vellore and Chennai campus to be selected for round 2 of HackWithInfy 2019.
+
+Question Number  1
+
+Given an array of n numbers find the largest difference in the 
+starting and ending indexes of the elements of the all possible 
+strictly decreasing sub-sequences in the array.
+
+Input: 21, 13, 18, 10, 7, 3, 1
+
+Output : 4
+
+Here for element 1 the decreasing subsequence can be mapped till
+18.It is 18, 10, 7, 3, 1.Similarly, for 3 it can be mapped till 
+18 which is 18, 10, 7, 3. For 7 it can be mapped till 
+18 which is 18, 10, 7. For 10 it can be mapped till 18
+which is 18, 10. For 18 there is no continuous decreasing 
+subsequence. For 13 it is 21, 13. 
+The largest difference in indexes is at index 2 and index 
+6 that is 4. 
+
+This question can be done using Two pointer method.
+We can keep track of indices of contiguous subsequence just by checking next array element.
+store the difference in a variable max and check it after each iteration.
+ 
+You just have to find the longest increasing contiguous subsequence from 
+the backside of the array and report the difference in 
+the index of starting and ending elements.
+Complexity of the algorithm will be O(n).
+
+Input: 1, 18, 17, 14, 15, 32, 16 
+
+Output: 2 
+
+Question number 2
+
+There are n people in the party. Each person is wearing T-shirts with numbers written on the T-shirts. The numbers on the T-shirts can be unique or the same. In three turns 3 people leave the party one at a time. You are provided with the people remaining in the party after every turn. You need to print the T-shirt number of people who left the party in the order they left. I used four maps in total one for initial array plus three one each for each turn arrays with T-shirt number as key and its frequency as value. I then compared the initial map with the first turn map to find the first missing element. Similarly, I then compared the first turn map with the second turn map to get the second missing element. Finally, I compared the second and third turn map to get the third missing element. Finally, I printed all the missing elements after storing it in a variable. I managed to pass all the given test cases.
+
+ Input:- Initial :- 11, 5, 1, 2, 7, 3, 1 
+         After Turn 1 :- 11, 5, 2, 7, 3, 1 
+         After Turn 2:-  5, 2, 7, 3, 1 
+         After turn 3:-  5, 7, 3, 1 
+
+
+Output : 1, 11, 2 
+
+We can observe that one of the two 1's is missing 
+after turn 1, similarly, 11 is missing after turn 2 
+and finally, 2 is missing after turn 3. 
+So the output is 1, 11, 2.
+
+ Input:- Initial :- 21, 15, 12, 11, 6, 5, 7 
+         After Turn 1 :- 21, 15, 12, 6, 5, 7 
+         After Turn 2:- 15, 12, 6, 5, 7 
+         After turn 3:- 15, 6, 5, 7 
+
+
+Output : 11, 21, 12 
+
+Question number 3
+
+I don’t exactly remember the question but it was based on prime numbers. I managed to pass 2 test cases out of the given total test cases.
+
+The result was announced on 31st July 2019 and I was lucky few to get the Pre-placement interview for Power Programmer Role. In my college, only 9 were called for Power Programmer Interview while 91 were called for System Engineer Role.
+
+
+
+nterviewer: You mentioned a question on Prime numbers. What is a prime number?
+
+Me: Any number divisible only by 1 and itself.
+
+Interviewer: Is 187 a prime number?
+
+Me: Yes Sir.
+
+Interviewer: Are you sure?
+
+Me: Sorry Sir. I actually did not see it has 11 as a factor. So it is not a prime number.
+
+Interviewer: You mentioned an online banking website project in your resume. What are the different security mechanisms you utilized to secure the site?
+
+Me: I simply used Password Protection for the site to prevent illegal access as I did the project in the 3rd semester.
+
+Interviewer: What mechanisms do you think you can add now to improve the security of the banking system?
+
+Me: Sir, Using a firewall can help to prevent unauthorized access from computers on private networks. It was the only mechanism that came to my mind at that point. I did not know whether it was correct or not.
+
+Interviewer: Can you suggest some other way?
+
+Me: No.
+
+Interviewer: What are a public key and private key in cryptography?
+
+Me: The public key is known to everyone while the private key is kept secret.
+
+Interviewer: Can you explain the two other projects mentioned in your resume.
+
+Me: I explained to him both the projects thoroughly.
+
+Interviewer: What are latency and throughput?
+
+Me: Latency is the delay that takes place in between processing of data or instruction. Throughput is the number of instructions processed per unit time.
+
+Interviewer: Ok. I am done with you. Do you have any questions for me?
+
+Me: If I get selected what will be the training period? The interviewer cleared my query.
+
+
+Given a list of string and numbers, rotate the string by one position to the right if the sum of squares of digits of the corresponding number is even and rotate it twice to the left if the sum of the squares of the digits of the corresponding number is odd.
+Given an array, find the sub array which can be a square matrix with maximum sum. If there are multiple results print the matrices in the order of their orders( i.e, 3×3 matrix will be printed first, then 2X2…so on)
+Given an alphanumeric string, extract all numbers, remove the duplicate digits, and from that set of digits construct the largest even number possible
+Given a mxn matrix select an element if the same element appears at 4 consecutive position again. Return the minimum element from all the gathered elements. What is consecutive? It’s horizontal, vertical and all possible diagonals
+State whether a giving string contains matching braces or not. In case mismatch is present then output the index of mismatch position
+Longest Alphabetic Sequence
+From a alphanumeric string extract all digits, From the smallest odd number with no repeats.
+
+
+Given a string, find the longest length of a prefix which is also a suffix.
+Given a string of brackets (, ), },}, [, ], find the position in the string where the orders of brackets break.
+Input: ())
+Output: 3
+Input: (){[]}(
+Output: 8
+
+Question 1:
+
+Given a string, find the substring based on following conditions,
+
+The substring must be the longest one of all the possible substring in the given string.
+There must not be any repeating characters in the substring.
+If there is more than one substring satisfying the above two conditions, then print the substring which occurs first.
+Length of the substring must be minimum 3.
+If there is no substring satisfying all the aforementioned conditions then print -1.
+
+Question 2:
+
+Given an array of integers, find the combination of integers forming a sequence which satisfies the below conditions:
+
+The ith  integer must satisfy the given equation in the sequence
+(1)  \begin{equation*} X[i] = X[i-1] + X[i-2] \end{equation*} 
+
+The length of the sequence must be maximum possible
+If there is more than one sequence satisfying above two conditions then print that sequence which contains least integers.
+In case there is no combination of integers possible then print -1.
+See the example below:
+Example 1:
+If the given integers are 4, 2, 7, 5, 3, 8, 10, 11, 19 then the possible combinations of integers satisfying above conditions are 2, 3, 5, 8 and 3, 8, 11, 19 and hence the output must be 2, 3, 5, 8. Here 2,3,5,8 have least valued integer than 3,8,11,19.
+Example 2:
+If the given integers are 1,4,6,10 then print -1.
+
+A simple String rotation type question where INPUT will be given in the form of Dictionary  and based on the value of the Dictionary the STRING should be rotated either clockwise or anti-clockwise.
+It is based on matrix which i felt  a bit difficult. We  have to find the number which occur consecutively 4 times either in a ROW, COLUMN, DIAGONAL and more importantly REVERSE DIAGONAL. If there are multiple such elements find the minimum among them.If there is no such element print “-1”.
+
+
+-“What is trashing?”
+
+-Explained!
+
+-“What is transaction?”
+
+-Explained along with the ACID properties.
+
+-“What are the different page replacement algorithms?”
+
+-Explained LRU, FIFO and Optimal page replacement.
+
+-“What is Scheduling?”
+
+-Flattered a little on this question and he understood that I am not confident with the answer.
+
+-“So you have web development in your project, so tell me how can you style a class and id in css?”
+
+-Explained
+
+-“How can you style buttons in your site?”
+
+Interviewer: Explain BFS
+
+Me: (Explained with example)
+
+Interviewer: What is Connected graph and disconnected graph
+
+Me: (Told)
+
+Interviewer: Tell me what sorting algorithms you know
+
+Me: Selection, Insertion, Bubble, HeapSort, Quicksort, MergeSort, Quotient Remainer Sort
+
+Interviewer: When will you use HeapSort and when will you use MergeSort?
+
+Me: (Told)
+
+Interviewer: (Pulls out a question) Read the questions and tell me what you understood
+
+It was a problem to print bigger palindrome number than a given number
+
+Me: (Explained the problem)
+
+Interviewer: Now think about the solution and write it on the paper.
+
+(After some time)
+
+Me: I thought of solution but that won’t work on all test cases
+
+Interviewer: For now, concentrate on sample test cases, and write on paper.
+
+Me: (Wrote it)
+
+Interviewer: (Read the solution, asked for some clarifications) Good. But it won’t work for (points out a corner case)
+
+Me: Yeah, that’s what I had told you.
+
+(Both laughing)
+
+Interviewer: Can you think of a solution that works in all cases?
+
+Me: Brute force.
+
+Interviewer: (laughing) Not brute force. Anything else?
+
+Me: (Shaking head)
+
+Interviewer:  Ok, what is machine learning
+
+Me: (Even though my CV is full of ML projects, I am very nervous because I couldn’t answer the previous problem) Machine Learning is a technology ( wondering what to say) I don’t actually focus on definitions.
+
+Interviewer: Well, I am done with your interview. Do you have any questions?
+
+Me: (Asked about Infosys Training)
+
+ 
+Question: Inverting Bits
+You are given an array of size n. Each element in the array is either 0 or 1. You have to perform exactly one operation. In one operation you need to select a subarray and invert all the bits in the subarray. The minimum size of the subarray to be selected is 1 and the maximum size is n.
+
+Print the maximum number of 1s that you can get by doing the operation described above.
+
+[Note: Inversion means changing a 0 to 1 and a 1 to 0]
+
+ 
+
+Test Case:
+
+Input:
+6
+1 0 0 1 0 1
+Output:
+5
+The solution to the above question is given below:
+
+
+n = int(input())    # Number of elements in the array
+  
+arr = list(map(int, input().split()))    # Array containing 0s and 1s
+  
+ones_count = []
+  
+# Use two for loops to creat subarrays
+for i in range(n):
+    for j in range(i + 1, n + 1):
+          
+        # arr[i:j] is a subarray
+        # The main logic to calculate count of 1s
+        ones_count.append(arr.count(1)+arr[i:j].count(0)-arr[i:j].count(1))
+          
+# finally, maximum of ones_count will be the required answer      
+print(max(ones_count))
+
+
+Interviewer: Write a program for it(he gave me another problem).
+
+Me: The question asked me to find the next palindrome of a given number which may be 10 to fifteen digits long. And I did it somehow.
+
+He also asked to write code for some easy coding questions(like finding the sum of digits of a number until sum becomes single digit)
+
+Interviewer: Do you know DBMS…?
+
+Me: yes sir, (then I was asked some basic terms like Normalisation, BCNF, 3NF, 2NF, 1NF, Atomicity, Redundancy, Inconsistency, etc.)
+
+I was also asked questions from Operating System like Thread, Process, parallel processing.
+
+Interviewer: Do you know machine learning?
+
+Me: I told as it was mentioned in my resume.
+
+Interviewer: You’ve mentioned Blockchain here(in resume), tell me what is blockchain?
+
+Me: I answered (He was impressed).
+
+Interviewer: Do you know what GitHub is?
+
+Me: I told him about Github and other version control tools.
+
+Interviewer: Ok Ranjeet, I’m done with the Interview. Do you’ve any question for me?
+
+Me: No sir.
+
+
+Interviewer: Given a number N, print prime numbers alternatively. For eg, N=20, print = 2, 5, 11, 17(not to print 3, 7, 13).
+
+What are the technology stacks I have worked with? Answered all like C++, Java, MySQL, NoSQL, Android, PHP etc.
+Difference between Structured and Non- Structured Databases? Explained.
+Write a program to print all permutations of string. First I did it using the nextpermutation() method of c++. Appreciated me on that, but then asked me to write my own logic. Took 10 mins but could not write complete but near about 80% of the logic as much as I could remember. Appreciated my approach. (Trick is do not give up very soon, keep trying).
+Write a program to print duplicates from the given string . First I wrote it using count array but he was not completely satisfied with the approach so he cross questioned me what is an alternative for arrays so I told him about vectors and maps. Then he asked can you solve this question using maps. I wrote and explained the advantages of using maps over arrays.
+Explain inheritance with proper example. Explained.
+Explain compile time errors and run time errors. Explained with examples.
+How would you handle run time errors? Answered .
+What are Exceptions and name some predefined exceptions. Answered.
+Why is finally block used in Exceptions? Answered .
+What are API? Answered.
+What are my Aspirations ? Answered briefly.
+Asked me to wait for the HR interview.
+
+
+Question 1 : there are switches that can be controlled by a remote , n such switches are connected in series and at the end of there is a bulb , the remote has a button that toggle the state of the switch (on to off and vice versa) , but the remote only works in switches which have a electric connection to them , A switch is connected when when all the previous switches are turned ON, and the bulb is on when all the switches are ON , At first all the switches are off and only the first switch is connected ,
+
+Input- N (number of switches ) ,1 < N < 30
+K(number of times the button is pressed) 1 < k < 10^7 output – 1 (if the bulb is on) , -1 (if it’s not) hint : figure out a simple math formula where the ans is 1 for value of K is k = p* pow(2, N) – 1 [for all p > 1 and p*pow(2,N) < K ].
+
+Question 2 : there are N employee sitting in consecutive cubicles , we have to send a few of them to onsite , but each time we send one employee onsite , his cubicle becomes empty , now the other employees from both side of that empty cubicle stops working until they are given a gift .
+the gifts are given in both sides of the empty cubicle until we reach the end or found another cubicle ,
+
+Input – number of cubicle , and index numbers of people to be sent
+output- min number of gifts needed
+
+hint: we have to find the order in which we will sent the people on site , find the index that’s in the middle or near about middle and send him out , keep doing the same for left and right sub array , there are many other ways of doing this by using binary trees .
+
+
+1.) There are  K events with start and end time and the total allocated time is N. You have to arrange the events slots such that the events are as contiguous as possible, thus maximizing the remaining time of the day.
+
+ 
+
+Example:
+
+N( total hour count)=15
+
+K( number of events)=3
+
+Next line contains the 3 events with [start_time  end_time] format.
+
+[0-5], [6-7], [8-10]
+
+ 
+
+Output: 7
+
+ 
+
+Explanation: we have  1st event from 0 to 5 hrs. then we can shift the event [6-7] to [5-6]. Current contiguous slot becomes [0-6].  Now the last event [8-10] can be shifter from [6-8]. Thus our final contiguous slot becomes [0-8]. We have the rest of the day i.e. [8-15] off. Which is =7hrs
+
+ 
+
+2.) Gold Mine problem with a twist. You are in a nXn grid containing 0, 1 and -1s.
+
+ 
+
+1 indicates it contains  1 unit of gold.
+
+0 indicates that there is a path through that square
+
+-1 indicates that it is a blockage
+
+ 
+
+You need to reach [n-1][n-1], starting from [0][0] using down OR right movement. And then from [n-1][n-1] you need to go back to [0][0] using up  OR left movement. On the way, you have to choose the path through which you can pick maximum gold. Note that once you have picked the gold, that square becomes 0. The grid was of 100×100 size in worst case, so don’t use backtacking or any recursive approaches. Optimized code only. Example:
+
+ 
+
+N=4
+
+1 1 -1
+
+1 0 -1
+
+1 1 1
+
+Ans: 6
+
+ 
+
+Explanation:
+
+While going down path is: [0, 0]-> [1, 0]-> [2, 0]-> [2, 1]->[2, 2] giving us 5 gold in total
+
+Now reset all the blocks in our path to 0, wherever there is 1, as we have picked those gold.
+
+Now to get back to [0, 0] we follow: [2, 2]-> [2, 1]-> [1, 1]-> [0, 1]->[0, 0] giving us 1 gold.
+
+So total gold =5+1=6.
+
+ 
+
+I was able to do the second one and progressed into the next round. Out of around 80 people, 7 were selected to next round.
+
+ 
+
+
+ design a RESTful API to retrieve, update and edit a contacts database from your phone to a server. I was asked to do this question because I had similar projects in my resume. I did not remember exact code for fetching and converting to JSON . But I was able to give him a good explanation regarding the whole process and part of the code.
+
+SQL from the topics – Joins, Cursors, Procedures, Triggers, DML, DDL. They also ask the basic OOPS concepts and questions.
+
+
